@@ -54,10 +54,11 @@ section{
 }
 .navbar a{
     padding: 2px;
+    color: var(--text-color);
 }
 .navbar a:hover,
 .navbar a:active{
-    color: var(--text-color);
+    color: var(--main-color);
 }
 #menu-icon{
     font-size: 3.6rem;
